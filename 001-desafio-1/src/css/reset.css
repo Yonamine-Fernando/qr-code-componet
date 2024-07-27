@@ -1,0 +1,11 @@
+html {
+    font-size: 62.5%;
+    font-family: "Outfit", sans-serif;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
